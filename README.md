@@ -29,28 +29,12 @@
 <br />
 
 ### Languages and Tools
-[<img align="left" alt=“Flutter” width="26px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />][youtube]
-[<img align="left" alt=“Firebase” width="26px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />][youtube]
-[<img align="left" alt=“Dart” width="26px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" />][youtube]
-[<img align="left" alt=“Github” width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][youtube]
+[<img align="left" alt=“Flutter” width="26px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />]
+[<img align="left" alt=“Firebase” width="26px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />]
+[<img align="left" alt=“Dart” width="26px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" />]
+[<img align="left" alt=“Github” width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
 
 
 
 <br />
 <br />
-
----
-
-### 📺 &ensp;Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [Flutter Preview - Hot Reload VS Hot Restart [2021] #Shorts](https://www.youtube.com/watch?v=5pxxagR3I7A)
-- [Flutter Tutorial - Hot Reload VS Hot Restart [2021]](https://www.youtube.com/watch?v=8RHK_5RTGL8)
-- [Flutter Preview - Preserve Scroll Position In ListView [2021] Page Storage Key #Shorts](https://www.youtube.com/watch?v=dSDIs8jPL3Q)
-- [Flutter Tutorial - Preserve Scroll Position In ListView [2021] Page Storage Key](https://www.youtube.com/watch?v=1nxegLe15os)
-- [Flutter Preview - How to Add a Favicon [2021] Flutter Web App Icon  #Shorts](https://www.youtube.com/watch?v=Iq_gtqpmJJ8)
-<!-- YOUTUBE:END -->
-
-➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
-
----
