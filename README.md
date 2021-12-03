@@ -1,4 +1,4 @@
-<h1 align="center"> Hi 👋, I'm <a href="https://www.youtube.com/channel/UC0FD2apauvegCcsvqIBceLA?sub_confirmation=1">Johannes Milke!</a></h1>
+<h1 align="center"> Hi 👋, I'm <a>Behruz Hurramov!</a></h1>
 <h3 align="center">A Flutter programmer who keeps you alive 😜</h3>
 
 [![Youtube](https://img.shields.io/static/v1?label=JohannesMilke&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)][youtube]
@@ -54,23 +54,3 @@
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
 
 ---
-
-### 📚 &ensp;Latest Medium Articles
-
-<!-- BLOG-POST-LIST:START -->
-- [Chip widget: Material Design with Flutter](https://medium.com/flutter-community/chip-widget-material-design-with-flutter-4a834553c9ab?source=rss-1d0dd7b62afc------2)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ &ensp;[More Articles...](https://medium.com/@JohannesMilke)
-
-
-
-[website]: https://johannesmilke.com
-[twitter]: https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FJohannesMilke&screen_name=JohannesMilke
-[youtube]: https://www.youtube.com/channel/UC0FD2apauvegCcsvqIBceLA?sub_confirmation=1
-[linkedin]: https://linkedin.com/in/JohannesMilke
-[github]: https://github.com/JohannesMilke
-[instagram]: https://www.instagram.com/johannesmilke
-[facebook]: https://www.facebook.com/real.JohannesMilke
-[medium]: https://medium.com/@JohannesMilke
-[email]: mailto:hello@johannesmilke.com
