@@ -41,10 +41,10 @@
 <img align="left" src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="sketch" width="26px"/>
 <img align="left" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="sketch" width="26px"/>
 <img align="left" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="sketch" width="26px"/>
-<img align="left" src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" alt="sketch" width="22" height="22"/>
-<img align="left" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="sketch" width="22" height="22"/>
-<img align="left" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/w3_css/w3_css-official.svg" alt="sketch" width="22" height="22"/>
-<img align="left" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/w3_html5/w3_html5-icon.svg" alt="sketch" width="22" height="22"/>
+<img align="left" src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" alt="sketch" width="26px"/>
+<img align="left" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="sketch" width="26px"/>
+<img align="left" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/w3_css/w3_css-official.svg" alt="css" width="26px"/>
+<img align="left" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/w3_html5/w3_html5-icon.svg" alt="html" width="26px"/>
 
 <br />
 <br />
