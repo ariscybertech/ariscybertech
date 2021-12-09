@@ -25,6 +25,7 @@
 [<img align="left" alt=“github” width="28px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />][github]
 [<img align="left" alt=“gmail” width="28px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />][gmail]
 [<img align="left" alt=“buymecoffee” width="28px" src="https://www.vectorlogo.zone/logos/buymeacoffee/buymeacoffee-icon.svg" />][buymecoffee]
+[<img align="left" alt=“stackoverflow” width="28px" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" />][stackoverflow]
 
 <br />
 <br />
@@ -66,3 +67,4 @@
 [medium]: https://medium.com/@ariscybertech
 [gmail]: ariscybertech@gmail.com
 [buymecoffee]: https://www.buymeacoffee.com/ariscybertech
+[stackoverflow]: https://stackoverflow.com/users/17326333/aris-aris
