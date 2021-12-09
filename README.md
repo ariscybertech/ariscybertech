@@ -17,12 +17,13 @@
 ### Connect With Me
 
 [<img align="left" alt=“youtube” width="28px" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" />][youtube]
-<img align="left" alt=“twitter” width="28px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
-<img align="left" alt=“linkedin” width="28px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" />
-<img align="left" alt=“facebook” width="28px" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" />
-<img align="left" alt=“instagram” width="28px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
-<img align="left" alt=“medium” width="28px" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" />
-<img align="left" alt=“github” width="28px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
+[<img align="left" alt=“twitter” width="28px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />][twitter]
+[<img align="left" alt=“linkedin” width="28px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" />][linkedin]
+[<img align="left" alt=“facebook” width="28px" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" />][facebook]
+[<img align="left" alt=“instagram” width="28px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />][instagram]
+[<img align="left" alt=“medium” width="28px" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" />][medium]
+[<img align="left" alt=“github” width="28px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />][github]
+[<img align="left" alt=“gmail” width="28px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />][gmail]
 
 
 <br />
@@ -55,12 +56,12 @@
 <br />
 <br />
 
-[website]: https://johannesmilke.com
+[website]: https://ariscybertech.com
 [twitter]: https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FJohannesMilke&screen_name=JohannesMilke
 [youtube]: https://www.youtube.com/channel/UCLGRdAvjXoAjeaqexW-Rj_w
-[linkedin]: https://linkedin.com/in/JohannesMilke
-[github]: https://github.com/JohannesMilke
-[instagram]: https://www.instagram.com/johannesmilke
-[facebook]: https://www.facebook.com/real.JohannesMilke
-[medium]: https://medium.com/@JohannesMilke
-[email]: ariscybertech@gmail.com
+[linkedin]: https://www.linkedin.com/in/aris-aris-803916221/
+[github]: https://github.com/ariscybertech
+[instagram]: https://www.instagram.com/ariscybertech/?hl=ru
+[facebook]: https://www.facebook.com/profile.php?id=100072963474345
+[medium]: https://medium.com/@ariscybertech
+[gmail]: ariscybertech@gmail.com
