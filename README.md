@@ -49,6 +49,9 @@
 <img align="left" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="26px"/>
 <img align="left" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="vue" width="26px"/>
 <img align="left" src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxt" width="26px"/>
+<img align="left" src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" alt="webpack" width="26px"/>
+
+
 
 <br />
 <br />
