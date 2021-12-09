@@ -57,7 +57,7 @@
 <br />
 
 [website]: https://ariscybertech.com
-[twitter]: https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FJohannesMilke&screen_name=JohannesMilke
+[twitter]: https://mobile.twitter.com/ARISCYBERTECH
 [youtube]: https://www.youtube.com/channel/UCLGRdAvjXoAjeaqexW-Rj_w
 [linkedin]: https://www.linkedin.com/in/aris-aris-803916221/
 [github]: https://github.com/ariscybertech
