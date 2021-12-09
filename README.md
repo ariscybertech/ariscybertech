@@ -21,11 +21,6 @@
 <img align="left" alt=“linkedin” width="28px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
 <img align="left" alt=“instagram” width="28px" src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" />
 <img align="left" alt=“facebook” width="28px" src="https://www.vectorlogo.zone/logos/medium/medium-icon.svg" />
-<img align="left" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Flinkedin.png?alt=media" />
-
-<img align="left" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Finstagram.png?alt=media" />
-<img align="left" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Ffacebook.png?alt=media" />
-<img align="left" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Fmedium.png?alt=media" />
 
 
 <br />
