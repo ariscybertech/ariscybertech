@@ -27,6 +27,7 @@
 [<img align="left" alt=“buymecoffee” width="28px" src="https://www.vectorlogo.zone/logos/buymeacoffee/buymeacoffee-icon.svg" />][buymecoffee]
 [<img align="left" alt=“stackoverflow” width="28px" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" />][stackoverflow]
 [<img align="left" alt=“patreon” width="28px" src="https://www.vectorlogo.zone/logos/patreon/patreon-tile.svg" />][patreon]
+[<img align="left" alt=“fiverr” width="28px" src="https://www.vectorlogo.zone/logos/fiverr/fiverr-icon.svg" />][fiverr]
 
 <br />
 <br />
@@ -70,3 +71,4 @@
 [buymecoffee]: https://www.buymeacoffee.com/ariscybertech
 [stackoverflow]: https://stackoverflow.com/users/17326333/aris-aris
 [patreon]: https://www.patreon.com/aristech
+[fiverr]: https://www.fiverr.com/ariscybertech?up_rollout=true
