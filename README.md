@@ -34,15 +34,15 @@
 <img align="left" alt=“Firebase” width="26px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
 <img align="left" alt=“Dart” width="26px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" />
 <img align="left" alt=“Github” width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="26px"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="26px"/>
-<img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="26px"/>
-<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="sketch" width="26px"/>
-<img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="sketch" width="26px"/>
-<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="sketch" width="26px"/>
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="sketch" width="26px"/>
-<img src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" alt="sketch" width="22" height="22"/>
-<img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="sketch" width="22" height="22"/>
+<img align="left" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="26px"/>
+<img align="left" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="26px"/>
+<img align="left" src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="26px"/>
+<img align="left" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="sketch" width="26px"/>
+<img align="left" src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="sketch" width="26px"/>
+<img align="left" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="sketch" width="26px"/>
+<img align="left" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="sketch" width="26px"/>
+<img align="left" src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" alt="sketch" width="22" height="22"/>
+<img align="left" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="sketch" width="22" height="22"/>
 
 <br />
 <br />
