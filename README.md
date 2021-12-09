@@ -46,8 +46,6 @@
 <img align="left" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" alt="css" width="26px"/>
 <img align="left" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="26px"/>
 <img align="left" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="26px"/>
-<img align="left" src="https://www.vectorlogo.zone/logos/lesscss/lesscss-ar21.svg" alt="less" width="26px"/>
-<img align="left" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg" alt="sass" width="26px"/>
 <img align="left" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="26px"/>
 <img align="left" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="vue" width="26px"/>
 <img align="left" src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxt" width="26px"/>
