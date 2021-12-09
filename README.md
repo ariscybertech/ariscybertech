@@ -17,7 +17,10 @@
 ### Connect With Me
 
 <img align="left" alt=“youtube” width="28px" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" />
-<img align="left" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Ftwitter.png?alt=media" />
+<img align="left" alt=“twitter” width="28px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
+<img align="left" alt=“linkedin” width="28px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
+<img align="left" alt=“instagram” width="28px" src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" />
+<img align="left" alt=“facebook” width="28px" src="https://www.vectorlogo.zone/logos/medium/medium-icon.svg" />
 <img align="left" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Flinkedin.png?alt=media" />
 
 <img align="left" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Finstagram.png?alt=media" />
