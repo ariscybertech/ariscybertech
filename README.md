@@ -20,8 +20,9 @@
 <img align="left" alt=“twitter” width="28px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
 <img align="left" alt=“linkedin” width="28px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" />
 <img align="left" alt=“facebook” width="28px" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" />
-<img align="left" alt=“instagram” width="28px" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" />
-<img align="left" alt=“medium” width="28px" src="https://www.vectorlogo.zone/logos/medium/medium-official.svg" />
+<img align="left" alt=“instagram” width="28px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
+<img align="left" alt=“medium” width="28px" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" />
+<img align="left" alt=“github” width="28px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
 
 
 <br />
