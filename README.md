@@ -24,7 +24,7 @@
 [<img align="left" alt=“medium” width="28px" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" />][medium]
 [<img align="left" alt=“github” width="28px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />][github]
 [<img align="left" alt=“gmail” width="28px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />][gmail]
-[<img align="left" alt=“buymecoffee” width="28px" src="https://www.vectorlogo.zone/logos/buymeacoffee/buymeacoffee-ar21.svg" />][buymecoffee]
+[<img align="left" alt=“buymecoffee” width="28px" src="https://www.vectorlogo.zone/logos/buymeacoffee/buymeacoffee-icon.svg" />][buymecoffee]
 
 <br />
 <br />
