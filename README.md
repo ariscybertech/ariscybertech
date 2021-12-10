@@ -25,7 +25,7 @@
 <a href="https://www.udemy.com/user/aristech/"><img align="left" src="https://github.com/ariscybertech/ariscybertech/blob/main/default/patreon.png" height="60"></a>
 
 
-<br /><br /><br /><br /><br />
+<br /><br /><br /><br />
 
 ### Connect With Me
 
