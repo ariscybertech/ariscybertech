@@ -20,13 +20,13 @@
 - 🗿 &ensp;I am one of the early adopters of Flutter, it has been more than 4 years
 - ⚡ &ensp;Fun fact: I love reading & podcasts
 
-<a href="https://www.buymeacoffee.com/ariscybertech"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="60"></a>
-<a href="https://www.udemy.com/user/aristech/"><img align="left" src="https://www.vectorlogo.zone/logos/udemy/udemy-official.svg" height="60"></a>
-<a href="https://www.udemy.com/user/aristech/"><img align="left" src="https://github.com/ariscybertech/ariscybertech/blob/main/default/patreon.png" height="60"></a>
+<p align="center">
+   <a href="https://www.buymeacoffee.com/ariscybertech"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="60"></a>
+<a href="https://www.udemy.com/user/aristech/"><img src="https://www.vectorlogo.zone/logos/udemy/udemy-official.svg" height="60"></a>
+<a href="https://www.udemy.com/user/aristech/"><img src="https://github.com/ariscybertech/ariscybertech/blob/main/default/patreon.png" height="60"></a>
+</p>
 
 <br />
-
-<br /><br />
 
 <h1 align="center"> Connect With Me</h1>
 
@@ -48,6 +48,7 @@
 <br />
 
 ### Languages and Tools
+
 <img align="left" alt=“Flutter” width="26px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />
 <img align="left" alt=“Firebase” width="26px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
 <img align="left" alt=“Dart” width="26px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" />
