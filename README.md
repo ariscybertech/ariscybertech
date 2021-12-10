@@ -1,6 +1,14 @@
 <h1 align="center"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm <a>Behruz Hurramov!</a></h1>
 <h3 align="center">A Flutter programmer who keeps you alive 😜</h3>
 
+<br />
+ 
+<p align="center">
+  <img alt="app-store" src="https://github.com/plante-app-team/plante/blob/master/readme_resources/app-store.png" />
+  <img alt="google-play" src="https://github.com/plante-app-team/plante/blob/master/readme_resources/play-store.png" />
+</p>
+
+<br />
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/JohannesMilke?color=1DA1F2&label=Followers&logo=twitter&style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/followers/JohannesMilke?logo=GitHub&style=for-the-badge)
