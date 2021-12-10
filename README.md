@@ -20,7 +20,7 @@
 - 🗿 &ensp;I am one of the early adopters of Flutter, it has been more than 4 years
 - ⚡ &ensp;Fun fact: I love reading & podcasts
 
-<a href="https://www.buymeacoffee.com/ariscybertech"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="60"></a>
+<a href="https://www.buymeacoffee.com/ariscybertech"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="60"></a>
 <a href="https://www.buymeacoffee.com/ariscybertech"><img src="https://www.vectorlogo.zone/logos/udemy/udemy-official.svg" height="60"></a>
 
 ### Connect With Me
