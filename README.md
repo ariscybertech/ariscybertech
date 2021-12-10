@@ -37,6 +37,7 @@
 [<img align="left" alt=“stackoverflow” width="28px" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" />][stackoverflow]
 [<img align="left" alt=“patreon” width="28px" src="https://www.vectorlogo.zone/logos/patreon/patreon-tile.svg" />][patreon]
 [<img align="left" alt=“fiverr” width="28px" src="https://www.vectorlogo.zone/logos/fiverr/fiverr-icon.svg" />][fiverr]
+[<img align="left" alt=“fiverr” width="28px" src="https://www.vectorlogo.zone/logos/udemy/udemy-icon.svg" />][udemy]
 
 <br />
 <br />
@@ -80,3 +81,4 @@
 [stackoverflow]: https://stackoverflow.com/users/17326333/aris-aris
 [patreon]: https://www.patreon.com/aristech
 [fiverr]: https://www.fiverr.com/ariscybertech?up_rollout=true
+[udemy]: https://www.udemy.com/user/aristech/
