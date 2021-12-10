@@ -27,7 +27,6 @@
 
 <br /><br /><br /><br /><br />
 
-
 ### Connect With Me
 
 [<img align="left" alt=“youtube” width="28px" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" />][youtube]
