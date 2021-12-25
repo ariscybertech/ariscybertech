@@ -44,8 +44,8 @@
 
 <p align="center">
    <a href="https://www.buymeacoffee.com/ariscybertech"><img alt=“youtube” width="28px" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" /></a>
-   <a href="https://www.udemy.com/user/aristech/"><img align="left" alt=“twitter” width="28px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" /></a>
-   <a href="https://www.patreon.com/aristech"><img align="left" alt=“linkedin” width="28px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" /></a>
+   <a href="https://www.udemy.com/user/aristech/"><img  alt=“twitter” width="28px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" /></a>
+   <a href="https://www.patreon.com/aristech"><img alt=“linkedin” width="28px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" /></a>
 </p>
 
 <br />
