@@ -47,6 +47,15 @@
    <a href="https://www.udemy.com/user/aristech/"><img  alt=“twitter” width="28px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" /></a>
    <a href="https://www.patreon.com/aristech"><img alt=“linkedin” width="28px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" /></a>
    <a href="https://www.facebook.com/profile.php?id=100072963474345"><img alt=“linkedin” width="28px" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" /></a>
+   <a href="https://www.patreon.com/aristech"><img alt=“linkedin” width="28px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" /></a>
+   <a href="https://www.patreon.com/aristech"><img alt=“linkedin” width="28px" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" /></a>
+   <a href="https://www.patreon.com/aristech"><img alt=“linkedin” width="28px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" /></a>
+   <a href="https://www.patreon.com/aristech"><img alt=“linkedin” width="28px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" /></a>
+   <a href="https://www.patreon.com/aristech"><img alt=“linkedin” width="28px" src="https://www.vectorlogo.zone/logos/buymeacoffee/buymeacoffee-icon.svg" /></a>
+   <a href="https://www.patreon.com/aristech"><img alt=“linkedin” width="28px" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" /></a>
+   <a href="https://www.patreon.com/aristech"><img alt=“linkedin” width="28px" src="https://www.vectorlogo.zone/logos/patreon/patreon-tile.svg" /></a>
+   <a href="https://www.patreon.com/aristech"><img alt=“linkedin” width="28px" src="https://www.vectorlogo.zone/logos/fiverr/fiverr-icon.svg" /></a>
+   <a href="https://www.patreon.com/aristech"><img alt=“linkedin” width="28px" src="https://www.vectorlogo.zone/logos/udemy/udemy-icon.svg" /></a>
 </p>
 
 <br />
