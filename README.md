@@ -17,11 +17,11 @@
    ![Linkedin: JohannesMilke](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/JohannesMilke/)
 
 <p align="center">
-- 🔭 &ensp;I’m currently working on youtube
-- 🌱 &ensp;I’m currently learning Flutter ❤️
-- 👯 &ensp;I’m looking to collaborate with other content creators
-- 🗿 &ensp;I am one of the early adopters of Flutter, it has been more than 4 years
-- ⚡ &ensp;Fun fact: I love reading & podcasts
+- 🔭 &ensp;I’m currently working on youtube <br />
+- 🌱 &ensp;I’m currently learning Flutter ❤️ <br />
+- 👯 &ensp;I’m looking to collaborate with other content creators <br />
+- 🗿 &ensp;I am one of the early adopters of Flutter, it has been more than 4 years <br />
+- ⚡ &ensp;Fun fact: I love reading & podcasts <br />
 </p>
 
 <p align="center">
