@@ -58,7 +58,7 @@
    <a href="https://www.udemy.com/user/aristech/"><img alt=“udemy” width="28px" src="https://www.vectorlogo.zone/logos/udemy/udemy-icon.svg" /></a>
 </p>
 
-<br />
+<!-- <br /> -->
 
 <!-- [<img align="left" alt=“youtube” width="28px" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" />][youtube]
 [<img align="left" alt=“twitter” width="28px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />][twitter]
