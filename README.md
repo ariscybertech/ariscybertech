@@ -13,14 +13,14 @@
 <br />
 
 <p align="center">
- <a href="https://play.google.com/store/apps/developer?id=Behruz+Hurramov">
-    <img alt="google-play" src="https://img.shields.io/twitter/follow/JohannesMilke?color=1DA1F2&label=Followers&logo=twitter&style=for-the-badge" />
+ <a href="https://mobile.twitter.com/ARISCYBERTECH">
+    <img alt="twitter" src="https://img.shields.io/twitter/follow/JohannesMilke?color=1DA1F2&label=Followers&logo=twitter&style=for-the-badge" />
  </a>
- <a href="https://play.google.com/store/apps/developer?id=Behruz+Hurramov">
-    <img alt="google-play" src="https://img.shields.io/github/followers/JohannesMilke?logo=GitHub&style=for-the-badge" />
+ <a href="https://github.com/ariscybertech">
+    <img alt="github" src="https://img.shields.io/github/followers/JohannesMilke?logo=GitHub&style=for-the-badge" />
  </a>
- <a href="https://play.google.com/store/apps/developer?id=Behruz+Hurramov">
-    <img alt="google-play" src="https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/JohannesMilk" e/>
+ <a href="https://www.linkedin.com/in/aris-aris-803916221/">
+    <img alt="linkedin" src="https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/JohannesMilk" e/>
  </a>
 </p>
 
