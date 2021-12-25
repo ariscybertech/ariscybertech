@@ -77,7 +77,7 @@
 <!-- <br />
 <br /> -->
 
-### Languages and Tools
+<h3 align="center">Languages and Tools</h3>
 
 <img align="left" alt=“Flutter” width="26px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />
 <img align="left" alt=“Firebase” width="26px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
