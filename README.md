@@ -60,7 +60,7 @@
 
 <br />
 
-[<img align="left" alt=“youtube” width="28px" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" />][youtube]
+<!-- [<img align="left" alt=“youtube” width="28px" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" />][youtube]
 [<img align="left" alt=“twitter” width="28px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />][twitter]
 [<img align="left" alt=“linkedin” width="28px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" />][linkedin]
 [<img align="left" alt=“facebook” width="28px" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" />][facebook]
@@ -72,7 +72,7 @@
 [<img align="left" alt=“stackoverflow” width="28px" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" />][stackoverflow]
 [<img align="left" alt=“patreon” width="28px" src="https://www.vectorlogo.zone/logos/patreon/patreon-tile.svg" />][patreon]
 [<img align="left" alt=“fiverr” width="28px" src="https://www.vectorlogo.zone/logos/fiverr/fiverr-icon.svg" />][fiverr]
-[<img align="left" alt=“fiverr” width="28px" src="https://www.vectorlogo.zone/logos/udemy/udemy-icon.svg" />][udemy]
+[<img align="left" alt=“fiverr” width="28px" src="https://www.vectorlogo.zone/logos/udemy/udemy-icon.svg" />][udemy] -->
 
 <br />
 <br />
