@@ -80,27 +80,27 @@
 <h3 align="center">Languages and Tools</h3>
 
 <p align="center">
-  <img align="left" alt=“Flutter” width="26px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />
-<img align="left" alt=“Firebase” width="26px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
-<img align="left" alt=“Dart” width="26px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" />
-<img align="left" alt=“Github” width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="26px"/>
-<img align="left" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="26px"/>
-<img align="left" src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="26px"/>
-<img align="left" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="sketch" width="26px"/>
-<img align="left" src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="sketch" width="26px"/>
-<img align="left" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="sketch" width="26px"/>
-<img align="left" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="sketch" width="26px"/>
-<img align="left" src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" alt="sketch" width="26px"/>
-<img align="left" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="sketch" width="26px"/>
-<img align="left" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" alt="css" width="26px"/>
-<img align="left" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="26px"/>
-<img align="left" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="26px"/>
-<img align="left" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="26px"/>
-<img align="left" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="vue" width="26px"/>
-<img align="left" src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxt" width="26px"/>
-<img align="left" src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" alt="webpack" width="26px"/>
-<img align="left" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="webpack" width="26px"/>
+  <img  alt=“Flutter” width="26px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />
+<img  alt=“Firebase” width="26px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
+<img  alt=“Dart” width="26px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" />
+<img  alt=“Github” width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img  src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="26px"/>
+<img  src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="26px"/>
+<img   src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="26px"/>
+<img   src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="sketch" width="26px"/>
+<img   src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="sketch" width="26px"/>
+<img   src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="sketch" width="26px"/>
+<img   src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="sketch" width="26px"/>
+<img   src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" alt="sketch" width="26px"/>
+<img   src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="sketch" width="26px"/>
+<img   src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" alt="css" width="26px"/>
+<img   src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="26px"/>
+<img   src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="26px"/>
+<img   src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="26px"/>
+<img   src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="vue" width="26px"/>
+<img   src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxt" width="26px"/>
+<img   src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" alt="webpack" width="26px"/>
+<img   src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="webpack" width="26px"/>
 </p>
 
 <br />
