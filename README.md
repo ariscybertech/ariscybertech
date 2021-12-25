@@ -13,9 +13,8 @@
 <br />
 
 <p align="center">
-  <img alt="app-store" src="https://github.com/ariscybertech/ariscybertech/blob/main/publish/app-store.png" />
  <a href="https://play.google.com/store/apps/developer?id=Behruz+Hurramov">
-    <img alt="google-play" src="https://github.com/ariscybertech/ariscybertech/blob/main/publish/play-store.png" />
+    <img alt="google-play" src="https://img.shields.io/twitter/follow/JohannesMilke?color=1DA1F2&label=Followers&logo=twitter&style=for-the-badge" />
  </a>
 </p>
 
