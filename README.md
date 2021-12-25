@@ -11,13 +11,10 @@
 </p>
 
 <br />
-<div align="center">
-   <a href="https://mobile.twitter.com/ARISCYBERTECH"><img href="https://img.shields.io/twitter/follow/JohannesMilke?color=1DA1F2&label=Followers&logo=twitter&style=for-the-badge)"></a>
- <a href="https://github.com/ariscybertech"><img href="https://img.shields.io/github/followers/JohannesMilke?logo=GitHub&style=for-the-badge)"></a>
- <a href="https://www.linkedin.com/in/aris-aris-803916221/"><img href="https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/JohannesMilke/)"></a>
-</div>
 
-   
+   ![Twitter Follow](https://img.shields.io/twitter/follow/JohannesMilke?color=1DA1F2&label=Followers&logo=twitter&style=for-the-badge)
+   ![GitHub followers](https://img.shields.io/github/followers/JohannesMilke?logo=GitHub&style=for-the-badge)
+   ![Linkedin: JohannesMilke](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/JohannesMilke/)
 
 <p align="center">
 - 🔭 &ensp;I’m currently working on youtube <br />
