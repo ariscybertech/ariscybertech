@@ -74,8 +74,8 @@
 [<img align="left" alt=“fiverr” width="28px" src="https://www.vectorlogo.zone/logos/fiverr/fiverr-icon.svg" />][fiverr]
 [<img align="left" alt=“fiverr” width="28px" src="https://www.vectorlogo.zone/logos/udemy/udemy-icon.svg" />][udemy] -->
 
-<br />
-<br />
+<!-- <br />
+<br /> -->
 
 ### Languages and Tools
 
