@@ -16,11 +16,13 @@
    ![GitHub followers](https://img.shields.io/github/followers/JohannesMilke?logo=GitHub&style=for-the-badge)
    ![Linkedin: JohannesMilke](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/JohannesMilke/)
 
+<p align="center">
 - 🔭 &ensp;I’m currently working on youtube
 - 🌱 &ensp;I’m currently learning Flutter ❤️
 - 👯 &ensp;I’m looking to collaborate with other content creators
 - 🗿 &ensp;I am one of the early adopters of Flutter, it has been more than 4 years
 - ⚡ &ensp;Fun fact: I love reading & podcasts
+</p>
 
 <p align="center">
    <a href="https://www.buymeacoffee.com/ariscybertech"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="60"></a>
