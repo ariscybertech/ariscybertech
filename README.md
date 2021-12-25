@@ -2,7 +2,7 @@
 
 <a href="https://readme-typing-svg.herokuapp.com?lines=Flutter+Developer+from+Uzbekistan.;Founder+ARISTECH;and+Addicted+To+Programming!;Nice+to+meet+you..."></a>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Flutter+Developer+from+Uzbekistan.;Founder+ARISTECH;and+Addicted+To+Programming!;Nice+to+meet+you...)](https://git.io/typing-svg)
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Flutter+Developer+from+Uzbekistan.;Founder+ARISTECH;and+Addicted+To+Programming!;Nice+to+meet+you...)](https://git.io/typing-svg) -->
 
 <h3 align="center">A Flutter programmer who keeps you alive 😜</h3>
 
