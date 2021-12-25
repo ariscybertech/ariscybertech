@@ -24,7 +24,7 @@
  </a>
 </p>
 
-<p align="center" style="font-family: Fira Code">
+<p align="center" style="font-family: 'Fira Code';">
 - 🔭 &ensp;I’m currently working on youtube <br />
 - 🌱 &ensp;I’m currently learning Flutter ❤️ <br />
 - 👯 &ensp;I’m looking to collaborate with other content creators <br />
