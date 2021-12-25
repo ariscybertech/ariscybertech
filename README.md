@@ -43,8 +43,8 @@
 <h1 align="center"> Connect With Me</h1>
 
 <p align="center">
-   <a href="https://www.buymeacoffee.com/ariscybertech"><img alt=“youtube” width="28px" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" /></a>
-   <a href="https://www.udemy.com/user/aristech/"><img  alt=“twitter” width="28px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" /></a>
+   <a href="https://www.youtube.com/channel/UCLGRdAvjXoAjeaqexW-Rj_w"><img alt=“youtube” width="28px" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" /></a>
+   <a href="https://mobile.twitter.com/ARISCYBERTECH"><img  alt=“twitter” width="28px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" /></a>
    <a href="https://www.linkedin.com/in/aris-aris-803916221/"><img alt=“linkedin” width="28px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" /></a>
    <a href="https://www.facebook.com/profile.php?id=100072963474345"><img alt=facebook width="28px" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" /></a>
    <a href="https://www.instagram.com/ariscybertech/?hl=ru"><img alt=“instagram” width="28px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" /></a>
