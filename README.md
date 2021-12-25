@@ -1,6 +1,6 @@
 <h1 align="center"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm <a>Behruz Hurramov!</a></h1>
 
-<a href="https://readme-typing-svg.herokuapp.com?lines=Flutter+Developer+from+Uzbekistan.;Founder+ARISTECH;and+Addicted+To+Programming!;Nice+to+meet+you..."></a>
+<img href="https://readme-typing-svg.herokuapp.com?lines=Flutter+Developer+from+Uzbekistan.;Founder+ARISTECH;and+Addicted+To+Programming!;Nice+to+meet+you..." />
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Flutter+Developer+from+Uzbekistan.;Founder+ARISTECH;and+Addicted+To+Programming!;Nice+to+meet+you...)](https://git.io/typing-svg) -->
 
