@@ -30,10 +30,7 @@
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/DenverCoder1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   <a href="https://github.com/DenverCoder1/Simple-View-Counter">
     <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
-</p>
-
-<p align="center">
- <a href="https://mobile.twitter.com/ARISCYBERTECH">
+   <a href="https://mobile.twitter.com/ARISCYBERTECH">
     <img alt="twitter" src="https://img.shields.io/twitter/follow/JohannesMilke?color=1DA1F2&label=Followers&logo=twitter&style=for-the-badge" />
  </a>
  <a href="https://github.com/ariscybertech">
