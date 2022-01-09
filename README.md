@@ -130,7 +130,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/ariscybertech">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariscybertech&theme=tokyonight&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariscybertech&layout=compact&theme=tokyonight&hide_langs_below=1" />
 </a>
 </p>
 
