@@ -123,12 +123,14 @@
 <br />
 <br />
 
-<a href="https://github.com/iampawan">
+<p align="center">
+    <a href="https://github.com/ariscybertech">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iampawan&theme=light&hide_langs_below=1" />
 </a>
-<a href="https://github.com/iampawan">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=iampawan&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
+<a href="https://github.com/ariscybertech">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=iampawan&show_icons=true&theme=light&line_height=27" alt="Behruz's github stats"/>
 </a>
+</p>
 
 [website]: https://ariscybertech.com
 [twitter]: https://mobile.twitter.com/ARISCYBERTECH
