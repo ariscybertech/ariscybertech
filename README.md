@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Founder+ARISTECH!;Flutter+Developer+from+Uzbekistan;and+Addicted+To+Programming!;Nice+to+meet+you...!&font=Fira%20Code&center=true&width=380&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Flutter+Developer+from+Uzb;Founder+ARISTECH!;and+Addicted+To+Programming!;Nice+to+meet+you...!&font=Fira%20Code&center=true&width=380&height=50">
 </p>
 
 <!--   [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Flutter+Developer+from+Uzbekistan.;Founder+ARISTECH;and+Addicted+To+Programming!;Nice+to+meet+you...&font=Fira%20Code&center=true&width=380&height=50)](https://git.io/typing-svg) -->
