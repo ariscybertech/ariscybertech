@@ -130,7 +130,6 @@
 <a href="https://github.com/ariscybertech">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ariscybertech&show_icons=true&theme=tokyonight&line_height=27" alt="Behruz's github stats"/>
 </a>
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 [website]: https://ariscybertech.com
