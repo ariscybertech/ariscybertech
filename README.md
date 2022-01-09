@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Type+messages+everywhere!;Add+a+bio+to+your+profile!;Add+a+description+to+your+repo!;Make+your+readme+stand+out!&font=Fira%20Code&center=true&width=380&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Flutter+Developer+from+Uzbekistan!;Founder+ARISTECH!;and+Addicted+To+Programming!;Nice+to+meet+you...!&font=Fira%20Code&center=true&width=380&height=50">
 </p>
 
 <!--   [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Flutter+Developer+from+Uzbekistan.;Founder+ARISTECH;and+Addicted+To+Programming!;Nice+to+meet+you...&font=Fira%20Code&center=true&width=380&height=50)](https://git.io/typing-svg) -->
