@@ -1,18 +1,9 @@
 <h1 align="center"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm <a>Behruz Hurramov!</a></h1>
  
 <p align="center">
-   <a href="https://git.io/typing-svg"><img align="center" alt=“youtube” src="https://readme-typing-svg.herokuapp.com?lines=Flutter+Developer+from+Uzbekistan.;Founder+ARISTECH;and+Addicted+To+Programming!;Nice+to+meet+you..." /></a>
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Flutter+Developer+from+Uzb;Founder+ARISTECH!;and+Addicted+To+Programming!;Nice+to+meet+you...!&font=Fira%20Code&center=true&width=380&height=50">
 </p>
 
-<!--   [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Flutter+Developer+from+Uzbekistan.;Founder+ARISTECH;and+Addicted+To+Programming!;Nice+to+meet+you...&font=Fira%20Code&center=true&width=380&height=50)](https://git.io/typing-svg) -->
-
-<!-- <h3 align="center">A Flutter programmer who keeps you alive 😜</h3> -->
-
-<!-- <br /> -->
   
 <p align="center">
   <img alt="app-store" src="https://github.com/ariscybertech/ariscybertech/blob/main/publish/app-store.png" />
