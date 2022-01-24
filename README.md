@@ -1,5 +1,5 @@
 <h1 align="center"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm <a>Behruz Hurramov!</a></h1>
-  
+ 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Flutter+Developer+from+Uzb;Founder+ARISTECH!;and+Addicted+To+Coding!;Nice+to+meet+you...!&font=Fira%20Code&center=true&width=380&height=50">
 </p>
@@ -13,7 +13,7 @@
 </p>
 
 <br />
-
+ 
 <p align="center">
   <a href="">
     <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.herokuapp.com/youtube/channel/subscribers/UCipSxT7a3rn81vGLw9lqRkg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
