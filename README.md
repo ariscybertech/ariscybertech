@@ -44,7 +44,7 @@
 - ⚡ &ensp;Fun fact: I love reading & podcasts <br />
 </p>
 
-<p style="align-items: space-between" align="center">
+<p align="center">
    <a href="https://www.buymeacoffee.com/ariscybertech"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="60"></a>
    <a href="https://www.udemy.com/user/aristech/"><img src="https://www.vectorlogo.zone/logos/udemy/udemy-official.svg" height="60"></a>
    <a href="https://www.patreon.com/aristech"><img src="https://github.com/ariscybertech/ariscybertech/blob/main/default/patreon.png" height="60"></a>
