@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Flutter+Developer+from+Uzb;Founder+ARISTECH!;and+Addicted+To+Coding!;Nice+to+meet+you...!&font=Fira%20Code&center=true&width=380&height=50">
 </p>
  
- 
+  
 <p align="center">
   <img alt="app-store" src="https://github.com/ariscybertech/ariscybertech/blob/main/publish/app-store.png" />
  <a href="https://play.google.com/store/apps/developer?id=Behruz+Hurramov">
