@@ -122,9 +122,9 @@
 <a href="https://github.com/ariscybertech">
  <img src="https://github-readme-stats.vercel.app/api?username=ariscybertech&show_icons=true&layout=compact&theme=tokyonight&line_height=27" alt="Behruz's github stats"/>
 </a>
- <a href="https://github.com/ariscybertech">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariscybertech&layout=compact&theme=tokyonight&hide_langs_below=1" />
-</a>
+<!--  <a href="https://github.com/ariscybertech"> -->
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariscybertech&layout=compact&theme=tokyonight&hide_langs_below=1" /> -->
+<!-- </a> -->
 </p>
  
 [website]: https://ariscybertech.com
