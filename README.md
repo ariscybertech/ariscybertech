@@ -118,7 +118,7 @@
 <br />
 <br />
 
-<p align="center">
+<p style="justify-content: space-between">
 <a href="https://github.com/ariscybertech">
  <img src="https://github-readme-stats.vercel.app/api?username=ariscybertech&show_icons=true&layout=compact&theme=tokyonight&line_height=27" alt="Behruz's github stats"/>
 </a>
