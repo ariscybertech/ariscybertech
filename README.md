@@ -10,7 +10,7 @@
  <a href="https://play.google.com/store/apps/developer?id=Behruz+Hurramov">
     <img alt="google-play" src="https://github.com/ariscybertech/ariscybertech/blob/main/publish/play-store.png" />
  </a>
-</p>
+</p> 
  
 <br />
       
