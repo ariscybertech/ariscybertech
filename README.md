@@ -11,7 +11,7 @@
     <img alt="google-play" src="https://github.com/ariscybertech/ariscybertech/blob/main/publish/play-store.png" />
  </a>
 </p> 
- 
+  
 <br />
       
 <p align="center">
